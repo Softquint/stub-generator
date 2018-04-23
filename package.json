@@ -1,0 +1,20 @@
+{
+  "name": "stub-generator",
+  "version": "1.0.0",
+  "description": "Generate json object based on schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fareed Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "ejs": "^2.5.9",
+    "json-schema-faker": "^0.5.0-rc15",
+    "jsonschema": "^1.2.4"
+  }
+}
